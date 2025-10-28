@@ -1,6 +1,7 @@
 #include<stdio.h>
 void main()
 {
+     printf("\t Janhavi \t Yadav\n");
     int x,y,k,ch;
     printf("enter any 2 number\n");
     scanf("%d%d",&x,&y);
@@ -32,4 +33,5 @@ void main()
     default:
              printf("Invalid choice\n");
     }
+
 }
