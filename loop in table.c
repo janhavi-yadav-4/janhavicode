@@ -2,6 +2,7 @@
 
 int main()
 {
+     printf("\t Janhavi \t Yadav\n");
     int i, x;
 
     printf("Enter number to print table: ");
@@ -13,4 +14,5 @@ int main()
     }
 
     
+
 }
