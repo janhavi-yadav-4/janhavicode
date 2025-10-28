@@ -1,6 +1,7 @@
 #include<stdio.h>
 void main()
 {
+     printf("\t Janhavi \t Yadav\n");
     int c,a,b;
     printf("enter any 3 no.\n");
     scanf("%d%d%d",&a,&b,&c);   
@@ -19,4 +20,5 @@ void main()
         printf("%d is max",c);
     }
    
+
 }            
