@@ -1,6 +1,7 @@
 #include<stdio.h>
 void main()
 {
+     printf("\t Janhavi \t Yadav\n");
     int i,j;
     for(i=65;i<=68;i++)
     {
@@ -10,4 +11,5 @@ void main()
         }
         printf("\n");
     }
+
 }
