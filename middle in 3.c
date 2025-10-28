@@ -1,6 +1,7 @@
 #include<stdio.h>
 void main()
 {
+     printf("\t Janhavi \t Yadav\n");
     int a,b,c;
     printf("enter any 3 no's\n");
     scanf("%d%d%d",&a,&b,&c);
@@ -17,4 +18,5 @@ else
 {
     printf("%d is middle no.",c);
 }
+
 }
