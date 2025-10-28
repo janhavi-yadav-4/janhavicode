@@ -2,6 +2,7 @@
 #include<stdio.h>
 void main()
 {
+  printf("\t Janhavi \t Yadav\n");
  char ch;
  printf("enter any character\n");
  scanf("%c",&ch);
@@ -11,4 +12,5 @@ void main()
  printf("ascii code - %d",ch);
  
 }
+
       
