@@ -2,6 +2,7 @@
 #include<stdio.h>
 void main()
 {
+     printf("\t Janhavi \t Yadav\n");
     float bs,hra,ca,total,pf,netsalary;
     printf("enter basic salary\n");
     scanf("%f",&bs);
@@ -43,4 +44,5 @@ void main()
 
 
      
+
      
