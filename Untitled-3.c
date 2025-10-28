@@ -1,6 +1,7 @@
 #include<stdio.h>
 void main()
 {
+     printf("\t Janhavi \t Yadav\n");
     int i,j,n;
     printf("enter the limit\n");
     scanf("%d",&n);
@@ -13,4 +14,5 @@ void main()
         }
         printf("\n");
     }
+
 }
